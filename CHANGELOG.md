@@ -4,6 +4,8 @@
 
 - *LICENCE.md*
   - Changed format to match Markdown standart specifications
+- *README.md*
+  - Changed format to match Markdown standart specifications
   - Added instructions on how to run software
   - Corrected grammatical mistakes
 - *requirements.txt*
